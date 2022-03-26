@@ -1,0 +1,4 @@
+1)Types of azure services
+2)non sql db wheter query is working or not
+3)Azure database types
+4)
